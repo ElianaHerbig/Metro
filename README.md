@@ -1,4 +1,6 @@
-# Ride Metro Sample Application.  Based on Configurable Map Viewer originally created by David Spriggs
+# Ride Metro Sample Application
+
+Based on Configurable Map Viewer originally created by David Spriggs
 
 [![Build Status](http://travis-ci.org/cmv/cmv-app.svg?branch=master)](http://travis-ci.org/cmv/cmv-app)
 
